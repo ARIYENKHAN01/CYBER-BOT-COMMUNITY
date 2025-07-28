@@ -1,7 +1,7 @@
 {
-  "name": "ISLAMICK BOT",
+  "name": "bby BOT",
   "version": "10.1.1",
-  "description": "made by 𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_☢️",
+  "description": "made by Masum ",
   "main": "Cyber.js",
   "engines": {
       "node": "20.x",
@@ -19,20 +19,20 @@
   "keywords": [
       "bot",
       "facebook",
-      "ullashproject",
+      "Masumproject",
       "messenger",
       "javasvript",
-      "ullash",
+      "Masum",
       "cyberullash",
       "cyberRajib ",
-      "islamick chat bot"
+      "bby bot"
   ],
   "author": "Masum",
   "license": "GPL-3.0",
   "bugs": {
-      "url": "https://github.com/cyber-ullash/CYBER-BOT-COMMUNITY/issues"
+      "url": "https://github.com/cyber-masum/bby BOT-COMMUNITY/issues"
   },
-  "homepage": "https://github.com/cyber-ullash/CYBER-BOT-COMMUNITY/issues",
+  "homepage": "https://github.com/cyber-masum/bby BOT/issues",
   "dependencies": {
       "@distube/ytdl-core": "^4.13.2",
       "@miraipr0ject/assets": "^1.0.9",
