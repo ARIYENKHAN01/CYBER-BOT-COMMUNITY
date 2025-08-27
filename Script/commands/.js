@@ -3,16 +3,16 @@ const fs = require("fs");
 const request = require("request");
 
 const link = [
- "https://i.imgur.com/bbigbCj.mp4",
+ "https://i.postimg.cc/KvVqvSsL/1756325898819.jpg",
 
 ];
 
 module.exports.config = {
- name: "🥺",
+ name: "𝐒𝐇𝐈𝐙𝐔𝐊𝐀_𝐁𝐎𝐓",
  version: "1.0.0",
  hasPermssion: 0,
- credits: "Islamick Chat",
- description: "auto reply to salam",
+ credits: "Shizuka",
+ description: "auto reply to hi",
  commandCategory: "noprefix",
  usages: "🥺",
  cooldowns: 5,
@@ -28,8 +28,8 @@ module.exports.handleEvent = async ({ api, event, Threads }) => {
  const body = content.toLowerCase();
  if (body.startsWith("🥺")) {
  const rahad = [
- "╭•┄┅════❁🌺❁════┅┄•╮\n \n আমি বলবো কেমন করে আমার শরিলের লোম দারিয়ে যায়-!!🥺\n\n╰•┄┅════❁🌺❁════┅┄•╯",
- "╭•┄┅════❁🌺❁════┅┄•╮\n\nআমি বলবো কেমন করে আমার শরিলের লোম দারিয়ে যায়-!!🥺\n\n╰•┄┅════❁🌺❁════┅┄•╯"
+ "╭•┄┅════❁🌺❁════┅┄•╮\n \n Mai kaise batau mujhe dar lagta hai-!!🥺\n\n╰•┄┅════❁🌺❁════┅┄•╯",
+ "╭•┄┅════❁🌺❁════┅┄•╮\n\nMai kaise batau mujhe dar lagta hai-!!🥺\n\n╰•┄┅════❁🌺❁════┅┄•╯"
 
  ];
  const rahad2 = rahad[Math.floor(Math.random() * rahad.length)];
